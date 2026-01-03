@@ -1,0 +1,3 @@
+import yfinance as yf
+tech_yf.tickers = ["MSFT", "AAPL", "GOOG", "IBM", "META", "AVGO", "ORCL", "PLTR", "AMD", "CSCO", "CRM", "AMZN", "QCOM", "INTC", "NVDA", "MU", "UBER"]
+ticker = input("Enter the ticker symbol: ")
